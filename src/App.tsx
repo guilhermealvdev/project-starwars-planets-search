@@ -6,5 +6,6 @@ function App() {
     <span>Hello, App!</span>
   );
 }
+// Iniciando o projeto
 
 export default App;
